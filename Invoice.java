@@ -1,8 +1,4 @@
 
-//Integrantes do grupo:
-//Thallia Matos - 32115532
-//Paulo Henrique - 321119247
-
 public class Invoice {
     String num, desc;
     int quant;
